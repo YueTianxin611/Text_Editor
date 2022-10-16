@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.Test" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-10-15T23:02:10" hostname="dhcp-vl2042-306.redrover.cornell.edu" time="0.471">
+  <properties/>
+  <testcase name="testTrie()" classname="test.Test" time="0.098"/>
+  <testcase name="testAutoComplete()" classname="test.Test" time="0.003"/>
+  <testcase name="testHashMap()" classname="test.Test" time="0.005"/>
+  <testcase name="testBloomFilter()" classname="test.Test" time="0.291"/>
+  <testcase name="testSearch()" classname="test.Test" time="0.008"/>
+  <testcase name="testSpellCheck()" classname="test.Test" time="0.048"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
